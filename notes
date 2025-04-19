@@ -1,0 +1,11 @@
+DATA INGESTION
+DATA TRANSORMATION
+MODEL TRAINER
+MODEL EVALUATION
+MODEL DEPLOYMENT
+CI/CD PIPELINES-GITHUB ACTIONS 
+DEPLOYMENT - AWS
+conda create -p venv python==3.12 -y
+conda activate venv/
+follow github steps from git init then 
+make readme file ->README.md
